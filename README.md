@@ -2,7 +2,7 @@
 
 This is a basic movie rating app made in flutter framework. GetX used for state management.
 
-![Demo](https://i.ibb.co/Ct5C30t/TMDB-Rating.gif)
+[![TMDB-Rating](https://i.postimg.cc/T3hjzQb7/TMDB-Rating.gif)](https://postimg.cc/gxF6RVN8)
 
 ## Getting Started
 
