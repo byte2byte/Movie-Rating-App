@@ -1,10 +1,34 @@
-# tmdb_testapp
+# Movie Rating App
 
-A new Flutter project.
+This is a basic movie rating app made in flutter framework. GetX used for state management.
+
+![Demo](https://i.ibb.co/Ct5C30t/TMDB-Rating.gif)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This repo contains the minimal implementation required to create a decent UI along Rest API Integration. The repository code is preloaded with some basic UI components, clean app architecture. Clone this repo to your local system to see how this works.
+
+## How to use
+
+### Step 1:
+
+Download or clone this repo by using the link below:
+
+```
+https://github.com/byte2byte/Movie-Rating-App.git
+````
+
+### Step 2:
+
+Go to project root and execute the following command in console to get the required dependencies:
+
+```
+flutter pub get
+```
+
+
+If you liked my work, don’t forget to ⭐ star the repo to show your support.
+
 
 A few resources to get you started if this is your first Flutter project:
 
